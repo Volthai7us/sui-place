@@ -1,0 +1,11 @@
+{
+  "name": "pixel_war",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@mysten/sui.js": "^0.0.0-experimental-20230411005557",
+    "dotenv": "^16.0.3"
+  }
+}

@@ -1,0 +1,7 @@
+.env
+node_modules
+sui.log*
+.trace
+.coverage*
+build
+dist
