@@ -18,3 +18,7 @@ source = { git = "https://github.com/MystenLabs/sui.git", rev = "testnet", subdi
 dependencies = [
   { name = "MoveStdlib" },
 ]
+
+[addresses]
+sui =  "0000000000000000000000000000000000000000000000000000000000000002"
+clock = "0000000000000000000000000000000000000000000000000000000000000006"
