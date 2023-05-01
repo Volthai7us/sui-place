@@ -5,7 +5,7 @@
   "type": "module",
   "license": "MIT",
   "dependencies": {
-    "@mysten/sui.js": "^0.0.0-experimental-20230411005557",
+    "@mysten/sui.js": "0.32.1",
     "dotenv": "^16.0.3"
   }
 }
